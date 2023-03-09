@@ -255,3 +255,88 @@ git add .
 git commit -m "adding files"
 git push origin main
 logout
+ls
+git clone https://github.com/Dhanesh-Avvaru/react-js.git
+git add .
+git commit -m "adding files"
+git push
+git push origin main
+ls
+cd reactjs-demo
+ls
+cat Dockerfile
+cat docker-compose.yml
+cd ..
+ls
+rmdir capstone-1
+cd capstone-1
+ls
+rm -rf *
+ls
+rmdir capstone-1
+ls
+cd ..
+ls
+rmdir capstone-1
+cd capstone-1
+ls
+cd ..
+ls
+cd reactjs-demo
+ls
+cd ..
+ls
+rmdir capstone-1
+ls pro
+cd react-js
+ls
+cd reactjs-demo
+ls
+cd ..
+ls
+rm -rf capstone-1
+ls
+rm-rf pro
+cd pro
+ls
+rm -rf react-js
+rm -rf reactjs-demo
+ls
+cd ..
+ls
+rm -rf pro
+ls
+rm -rf react-js
+ls
+cd reactjs-demo
+ls
+git clone
+git clone https://github.com/Dhanesh-Avvaru/react-js.git
+git add .
+git commit -m "adding docker"
+git push
+cd ..
+ls
+ls reactjs-demo
+ls
+logout
+ls
+cd reactjs.demo
+cd reactjs-demo
+ls
+cd react-js
+ls
+rmdir react-js
+cd ..
+rmdir react-js
+ls
+rm -rf react-js
+ls
+git init
+git add .
+git commit -m "adding dockerfile"
+git push -u origin main
+git clone https://github.com/Dhanesh-Avvaru/react-js.git
+git commit -m "docker"
+git push
+logout
